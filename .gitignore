@@ -3,3 +3,4 @@ io/
 tfod/
 *.whl
 .DS_Store
+.ipynb_checkpoints
