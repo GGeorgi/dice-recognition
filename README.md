@@ -16,8 +16,10 @@ source tfod/bin/activate
 python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=tfod
+</pre>
 <br/>
-<b>Step 3.</b> Launch notebook
+<b>Step 4.</b> Launch notebook
 <pre>
 cd traning
 jupyter notebook
+</pre>
